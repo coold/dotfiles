@@ -34,3 +34,4 @@ highlight SpecialKey ctermbg=none ctermfg=8
 highlight NonText ctermbg=none ctermfg=8
 set rtp+=$HOME/.local/lib/python2.7/site-packages/powerline/bindings/vim/
 set autoindent
+set langmap=ФИСВУАПРШОЛДЬТЩЗЙКЫЕГМЦЧНЯ;ABCDEFGHIJKLMNOPQRSTUVWXYZ,фисвуапршолдьтщзйкыегмцчня;abcdefghijklmnopqrstuvwxyz
